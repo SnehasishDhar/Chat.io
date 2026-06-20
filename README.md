@@ -82,7 +82,7 @@ graph TD
 ### 2. Setup Widget
 1. Navigate to the frontend directory:
    ```bash
-   cd anythingllm-embed-main
+   cd frontend
    ```
 2. Install dependencies:
    ```bash
